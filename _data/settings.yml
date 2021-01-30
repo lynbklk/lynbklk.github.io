@@ -2,7 +2,7 @@
 # General Site Settings
 title: spark24
 #logo: logo.png # You can add own logo.
-description: Spark24's SPACE
+description: Spark24 
 
 
 #-------------------------------
@@ -17,7 +17,7 @@ author:
 #-------------------------------
 # Contact links
 weibo: https://weibo.com/7316439436
-twitter: https://twitter.com/ # Add your Twitter handle
+#twitter: https://twitter.com/ # Add your Twitter handle
 #facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 #instagram: https://instagram.com/ # Add your Instagram handle
